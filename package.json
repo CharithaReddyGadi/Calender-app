@@ -1,0 +1,16 @@
+{
+  "name": "calender-app",
+  "version": "1.0.0",
+  "description": "A calender application for tracking communication with companies.",
+  "main": " src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calender",
+    "communication",
+    "tracking"
+  ],
+  "author": "Charitha Gadi",
+  "license": "MIT"
+}
